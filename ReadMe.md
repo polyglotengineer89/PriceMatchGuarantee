@@ -1,3 +1,6 @@
+<h4>Competition</h4>
+https://www.kaggle.com/c/shopee-product-matching/data
+
 <h4>Description</h4><br>
 
 Do you scan online retailers in search of the best deals? You're joined by the many savvy shoppers who don't like paying extra for the same product depending on where they shop. Retail companies use a variety of methods to assure customers that their products are the cheapest. Among them is product matching, which allows a company to offer products at rates that are competitive to the same product sold by another retailer. To perform these matches automatically requires a thorough machine learning approach, which is where your data science skills could help.
